@@ -29,5 +29,3 @@ Begin Checkout
 Verify Search Page Contains Products
     [Arguments]  ${ExpectedSearchResults}
     SearchResults.Verify Product Count  ${ExpectedSearchResults}
-
-C
