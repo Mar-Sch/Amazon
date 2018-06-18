@@ -1,10 +1,10 @@
 *** Settings ***
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/Cart.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/LandingPage.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/Product.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/SearchResults.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/SignIn.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/PO/TopNav.robot
+Resource  ./PO/Cart.robot
+Resource  ./PO/LandingPage.robot
+Resource  ./PO/Product.robot
+Resource  ./PO/SearchResults.robot
+Resource  ./PO/SignIn.robot
+Resource  ./PO/TopNav.robot
 
 
 *** Keywords ***

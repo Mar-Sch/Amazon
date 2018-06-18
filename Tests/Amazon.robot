@@ -1,7 +1,7 @@
 *** Settings ***
 Documentation  This is some basic information about the test suite
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/AmazonApp.robot
-Resource  C:/Users/schaamar/PycharmProjects/Robot-Training/Amazon_Python3/Resources/Common.robot
+Resource  ../Resources/Common.robot
+Resource  ../Resources/AmazonApp.robot
 
 Suite Setup  Insert Test Data
 Test Setup  Common.Begin Web Test
